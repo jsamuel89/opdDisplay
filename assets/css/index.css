@@ -1,0 +1,17 @@
+div a img{
+  border: 1px solid black;
+  float: right;
+}
+.jumbotron{
+  max-height: 200px;
+  padding: 0
+}
+h2{
+  font-size: 50px;
+}
+.help-text{
+  font-size: 20px;
+}
+marquee{
+  speed:fast;
+}
