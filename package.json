@@ -1,6 +1,6 @@
 {
-  "name": "fromgit",
-  "version": "1.0.1",
+  "name": "test",
+  "version": "1.0.0",
   "description": "learning node",
   "main": "index.js",
   "dependencies": {
@@ -11,20 +11,6 @@
   "scripts": {
     "test": "test"
   },
-  "author": "Samuel",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jsamuel89/opdDisplay.git"
-  },
-  "keywords": [
-    "test",
-    "app",
-    "git",
-    "node"
-  ],
-  "bugs": {
-    "url": "https://github.com/jsamuel89/opdDisplay/issues"
-  },
-  "homepage": "https://github.com/jsamuel89/opdDisplay#readme"
+  "author": "",
+  "license": "ISC"
 }
