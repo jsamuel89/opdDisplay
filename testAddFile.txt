@@ -1,0 +1,3 @@
+Some sample content
+Added second line to the file
+Added third line by remote user @VM
